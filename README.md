@@ -1,1 +1,1 @@
-# boss-battle-practice
+# boss-battle-practice 練習用
